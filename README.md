@@ -12,8 +12,8 @@ M.Tech in Product Design and Management at IIIT Hyderabad (2025–2027). I like 
 |---|---|
 | [**Marathi and Konkani language models**](https://github.com/Pakkabhabad18/marathi-konkani-transformer-lm) | Two 24.9M-parameter Transformer language models built from scratch in PyTorch, from web crawling and OCR to pretraining, reasoning fine-tuning and evaluation, with GitHub Actions CI |
 | [**InfoKiosk**](https://github.com/Pakkabhabad18/infokiosk-visitor-system) | Design thinking project: stakeholder research with 11 visitor groups, problem framing, RICE prioritisation and a tested multilingual kiosk prototype |
-| [**StayFit**](https://github.com/paridhii16/SE-Project-3) | Team lead and system design: AI nutrition tracker on 4 Flask microservices behind an API gateway, with async queues, caching, fault testing and OAuth2/JWT |
-| [**CivicVoice**](https://github.com/DeeptiKoranga/CivicVoice) | Civic grievance platform: REST APIs on MongoDB Atlas, SLA escalation, Twilio SMS and GenAI complaint routing |
+| [**StayFit**](https://github.com/Pakkabhabad18/stayfit-ai-nutrition-platform)) | Team lead and system design: AI nutrition tracker on 4 Flask microservices behind an API gateway, with async queues, caching, fault testing and OAuth2/JWT |
+| [**CivicVoice**](https://github.com/Pakkabhabad18/civicvoice-grievance-platform) | Civic grievance platform: REST APIs on MongoDB Atlas, SLA escalation, Twilio SMS and GenAI complaint routing |
 | [**Ad Effectiveness Study**](https://github.com/Pakkabhabad18/ad-effectiveness-purchase-intent) | Randomised survey experiment on five ad levers, analysed in Python with regression, t-tests and ANOVA |
 
 ---
